@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WebsoftBookStore/.vs/WebsoftBookStore
+/WebsoftBookStore/WebsoftBookStore/bin/Debug/netcoreapp3.1
+/WebsoftBookStore/WebsoftBookStore/obj
